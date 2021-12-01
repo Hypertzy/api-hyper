@@ -1,7 +1,7 @@
 {
-  "name": "ZeroYT",
+  "name": "HyperBot",
   "version": "1.1.0",
-  "description": "Thanks To Zhir For Script",
+  "description": "HYPER Z",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
